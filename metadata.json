@@ -1,0 +1,6 @@
+{
+  "name": "CyberShield",
+  "description": "An enterprise-grade Cybersecurity Threat Intelligence, AI Analytics, and Live Monitoring Hub capstone project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
